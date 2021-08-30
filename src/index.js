@@ -1,3 +1,4 @@
+/* @flow */
 import { uniqueID, base64encode } from 'belter/src/util';
 
 

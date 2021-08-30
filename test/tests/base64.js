@@ -1,3 +1,4 @@
+/* @flow */
 import { stringToBase64 } from '../../src';
 
 describe('domainMatches', () => {
