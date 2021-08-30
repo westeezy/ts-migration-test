@@ -1,6 +1,6 @@
  108 index.d.ts
  232 index.js.flow
   64 module/
-173K ts-test.js
- 64K ts-test.min.js
-251K ts-test.min.js.map
+166K ts-test.js
+ 59K ts-test.min.js
+238K ts-test.min.js.map
