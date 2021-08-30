@@ -1,4 +1,4 @@
   96 module/
- 20K ts-test.js
-7.7K ts-test.min.js
- 78K ts-test.min.js.map
+161K ts-test.js
+ 57K ts-test.min.js
+231K ts-test.min.js.map

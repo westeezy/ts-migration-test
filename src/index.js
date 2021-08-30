@@ -1,5 +1,5 @@
 /* @flow */
-import { uniqueID, base64encode } from 'belter/src/util';
+import { uniqueID, base64encode } from 'belter/';
 
 
 export function getUniqueID() : string {
